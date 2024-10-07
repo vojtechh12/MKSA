@@ -1,3 +1,9 @@
+# Usage
+pull the whole repo and open it in obsidian
+
+# Note
+I did not complete all the exam questions + they change every year in this course. There might be some errors. Just consult the slides if unsure.
+
 ## Mobile Networks | Mobilní sítě
 ---
 - semester: 1
